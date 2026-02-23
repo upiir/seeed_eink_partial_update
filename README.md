@@ -24,6 +24,9 @@ Related videos:
 
 Small Animations:
 
+![hello_writing_animation](https://github.com/user-attachments/assets/e8c287b1-ba38-493a-8a9b-a8af423cac5f)
+
+
 ![eink_display_speed](https://github.com/user-attachments/assets/cfb572ba-511a-4f4e-b798-45c56ffa67b3)
 
 
